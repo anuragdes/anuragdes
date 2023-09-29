@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://anuragdes.io)
+[![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1060&t=st=1695979719~exp=1695980319~hmac=51647e30213e27c04851814b508442b2453338963705b576efd877704bd98853)](https://anuragdes.io)
 <h1 align="center">Hi 👋, I'm ANURAG PANDA</h1>
 <h3 align="center">A passionate FULL STACK JAVA DEVELOPER developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
